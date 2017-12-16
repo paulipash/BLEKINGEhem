@@ -1,0 +1,992 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body{
+	margin: 0px;
+	padding:0px;
+	background-image: url(pics/Photo7.JPG);
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	
+}
+
+#fade-box{
+	border:none;
+	height:350px;
+	background-color:black;
+	opacity: 0.4;
+	margin-top:23.7%;
+}
+
+ section, #service-information, h1, h2, p{
+	color:white;
+	font-family:'Playfair Display';
+	position: relative;
+}
+
+ h1{
+	margin-top:-25.5%;
+	text-align: center;
+	font-size: 50px;
+}
+
+.konsultation, h2{
+	font-size: 20px;
+	margin-left:20%;
+	margin-top:-3%;
+	position: absolute;
+}
+
+.konsultation-text, p{
+	text-align: center;
+	margin-left:15%;
+	margin-right:64%;
+	font-size: 15px;
+	margin-top:1%;
+	
+}
+
+.homestyling, h2{
+	
+	font-size: 20px;
+	margin-left:46%;
+	margin-top:-3%;
+	position: absolute;
+}
+
+.homestyling-text, p{
+	text-align: center;
+	margin-left:39%;
+	margin-right:37%;
+	font-size: 15px;
+	margin-top:-12%;
+	position: relative;
+	
+}
+
+.homestaging, h2{
+	
+	font-size: 20px;
+	margin-left:71%;
+	margin-top:-3%;
+	position: absolute;
+}
+
+.homestaging-text, p{
+	text-align: center;
+	margin-left:67%;
+	margin-right:14%;
+	font-size: 15px;
+	margin-top:-13.5%;
+	margin-bottom: 3.8%;
+	position: relative;
+	
+}
+
+#navigation, ul, li, a{
+	display: inline;
+	text-decoration: none;
+	color: white;
+	padding:0.7%;
+	margin-left:2%;
+	cursor: pointer;
+	position: relative;
+}
+
+#navigation, a:active{
+	color: black;
+}
+
+footer{
+	color:white;
+	margin-left:45%;
+	margin-top:2%;
+}
+
+
+@media only screen and (max-device-width:1920px){
+	#fade-box{
+	
+	margin-top:37.98%;
+	height: 350px;
+	}
+	
+	h1{
+	margin-top:-17%;
+	text-align: center;
+	font-size: 50px;
+}
+
+	.konsultation, h2{
+	font-size: 20px;
+	margin-left:20%;
+	margin-top:-2%;
+	position: absolute;
+}
+
+.konsultation-text, p{
+	text-align: center;
+	margin-left:15%;
+	margin-right:64%;
+	font-size: 15px;
+	margin-top:2.5%;
+	
+}
+
+.homestyling, h2{
+	
+	font-size: 20px;
+	margin-left:46%;
+	margin-top:-2%;
+	position: absolute;
+}
+
+.homestyling-text, p{
+	text-align: center;
+	margin-left:39%;
+	margin-right:37%;
+	font-size: 15px;
+	margin-top:-9%;
+	position: relative;
+	
+}
+
+.homestaging, h2{
+	
+	font-size: 20px;
+	margin-left:71%;
+	margin-top:-2%;
+	position: absolute;
+}
+
+.homestaging-text, p{
+	text-align: center;
+	margin-left:67%;
+	margin-right:14%;
+	font-size: 15px;
+	margin-top:-8.3%;
+	margin-bottom: 3.7%;
+	position: relative;
+	
+}
+#navigation, ul, li, a{
+	font-size: 18px;
+		
+}
+}
+
+@media only screen and (max-device-width:1680px){
+	#fade-box{
+	
+	margin-top:32.7%;
+	height: 350px;
+	}
+	
+	h1{
+	margin-top:-20%;
+	text-align: center;
+	font-size: 50px;
+}
+
+	.konsultation, h2{
+	font-size: 20px;
+	margin-left:20%;
+	margin-top:-2%;
+	position: absolute;
+}
+
+.konsultation-text, p{
+	text-align: center;
+	margin-left:15%;
+	margin-right:64%;
+	font-size: 15px;
+	margin-top:2.5%;
+	
+}
+
+.homestyling, h2{
+	
+	font-size: 20px;
+	margin-left:46%;
+	margin-top:-2%;
+	position: absolute;
+}
+
+.homestyling-text, p{
+	text-align: center;
+	margin-left:39%;
+	margin-right:37%;
+	font-size: 15px;
+	margin-top:-9%;
+	position: relative;
+	
+}
+
+.homestaging, h2{
+	
+	font-size: 20px;
+	margin-left:73%;
+	margin-top:-2%;
+	position: absolute;
+}
+
+.homestaging-text, p{
+	text-align: center;
+	margin-left:67%;
+	margin-right:14%;
+	font-size: 15px;
+	margin-top:-10%;
+	margin-bottom: 3.98%;
+	position: relative;
+	
+}
+#navigation, ul, li, a{
+	font-size: 18px;
+		
+}
+}
+
+@media only screen and (max-device-width:1440px){
+	#fade-box{
+	
+	margin-top:27.73%;
+	height: 350px;
+	}
+	
+	h1{
+	margin-top:-23%;
+	text-align: center;
+	font-size: 50px;
+}
+
+	.konsultation, h2{
+	font-size: 20px;
+	margin-left:20%;
+	margin-top:-2%;
+	position: absolute;
+}
+
+.konsultation-text, p{
+	text-align: center;
+	margin-left:15%;
+	margin-right:64%;
+	font-size: 15px;
+	margin-top:2.5%;
+	
+}
+
+.homestyling, h2{
+	
+	font-size: 20px;
+	margin-left:46%;
+	margin-top:-2.5%;
+	position: absolute;
+}
+
+.homestyling-text, p{
+	text-align: center;
+	margin-left:39%;
+	margin-right:37%;
+	font-size: 15px;
+	margin-top:-11.5%;
+	position: relative;
+	
+}
+
+.homestaging, h2{
+	
+	font-size: 20px;
+	margin-left:71%;
+	margin-top:-2%;
+	position: absolute;
+}
+
+.homestaging-text, p{
+	text-align: center;
+	margin-left:67%;
+	margin-right:14%;
+	font-size: 15px;
+	margin-top:-11.5%;
+	margin-bottom: 3.9%;
+	position: relative;
+	
+}
+#navigation, ul, li, a{
+	font-size: 18px;
+		
+}
+}
+
+@media only screen and (max-device-width:1280px) and (min-device-height:800px){
+	#fade-box{
+	
+	margin-top:23.5%;
+	height: 350px;
+	}
+	
+	h1{
+	margin-top:-26%;
+	text-align: center;
+	font-size: 50px;
+}
+
+	.konsultation, h2{
+	font-size: 20px;
+	margin-left:20%;
+	margin-top:-2%;
+	position: absolute;
+}
+
+.konsultation-text, p{
+	text-align: center;
+	margin-left:15%;
+	margin-right:64%;
+	font-size: 15px;
+	margin-top:2.7%;
+	
+}
+
+.homestyling, h2{
+	
+	font-size: 20px;
+	margin-left:46%;
+	margin-top:-2.5%;
+	position: absolute;
+}
+
+.homestyling-text, p{
+	text-align: center;
+	margin-left:39%;
+	margin-right:37%;
+	font-size: 15px;
+	margin-top:-11.5%;
+	position: relative;
+	
+}
+
+.homestaging, h2{
+	
+	font-size: 20px;
+	margin-left:71%;
+	margin-top:-2.3%;
+	position: absolute;
+}
+
+.homestaging-text, p{
+	text-align: center;
+	margin-left:67%;
+	margin-right:14%;
+	font-size: 15px;
+	margin-top:-13.5%;
+	margin-bottom: 3.8%;
+	position: relative;
+	
+}
+#navigation, ul, li, a{
+	font-size: 18px;
+		
+}
+
+}
+
+
+@media only screen and (max-device-height:768px) and (min-device-width:1024px){
+	#fade-box{
+	
+	margin-top:45.6%;
+	height: 300px;
+	}
+	
+	h1{
+	margin-top:-27%;
+	text-align: center;
+	font-size: 30px;
+}
+
+	.konsultation, h2{
+	font-size: 18px;
+	margin-left:20%;
+	margin-top:-2%;
+	position: absolute;
+}
+
+.konsultation-text, p{
+	text-align: center;
+	margin-left:15%;
+	margin-right:64%;
+	font-size: 13px;
+	margin-top:3%;
+	
+}
+
+.homestyling, h2{
+	
+	font-size: 18px;
+	margin-left:46%;
+	margin-top:-2.5%;
+	position: absolute;
+}
+
+.homestyling-text, p{
+	text-align: center;
+	margin-left:39%;
+	margin-right:37%;
+	font-size: 13px;
+	margin-top:-14.4%;
+	position: relative;
+	
+}
+
+.homestaging, h2{
+	
+	font-size: 18px;
+	margin-left:71%;
+	margin-top:-2.3%;
+	position: absolute;
+}
+
+.homestaging-text, p{
+	text-align: center;
+	margin-left:67%;
+	margin-right:14%;
+	font-size: 13px;
+	margin-top:-16%;
+	margin-bottom: 3.8%;
+	position: relative;
+	
+}
+#navigation, ul, li, a{
+	font-size: 14px;
+	padding: 0-5%;
+		
+}
+	footer{
+		font-size:12px;
+	}
+}
+
+@media only screen and (max-device-height:768px) and (min-device-width:1366px){
+	#fade-box{
+	
+	margin-top:30.7%;
+	height: 350px;
+	}
+	
+	h1{
+	margin-top:-24%;
+	text-align: center;
+	font-size: 30px;
+}
+
+	.konsultation, h2{
+	font-size: 20px;
+	margin-left:20%;
+	margin-top:-0.2%;
+	position: absolute;
+}
+
+.konsultation-text, p{
+	text-align: center;
+	margin-left:15%;
+	margin-right:64%;
+	font-size: 15px;
+	margin-top:4%;
+	
+}
+
+.homestyling, h2{
+	
+	font-size: 20px;
+	margin-left:46%;
+	margin-top:-2.5%;
+	position: absolute;
+}
+
+.homestyling-text, p{
+	text-align: center;
+	margin-left:39%;
+	margin-right:37%;
+	font-size: 15px;
+	margin-top:-11.5%;
+	position: relative;
+	
+}
+
+.homestaging, h2{
+	
+	font-size: 20px;
+	margin-left:71%;
+	margin-top:-2%;
+	position: absolute;
+}
+
+.homestaging-text, p{
+	text-align: center;
+	margin-left:67%;
+	margin-right:14%;
+	font-size: 15px;
+	margin-top:-12.8%;
+	margin-bottom: 3.9%;
+	position: relative;
+	
+}
+#navigation, ul, li, a{
+	font-size: 16px;
+	margin-left:2.5%;
+		
+}
+}
+@media only screen and (max-device-height:736px){
+	#fade-box{
+	
+	margin-top:121.9%;
+	height: 230px;
+	}
+	
+	h1{
+	margin-top:-55%;
+	text-align: center;
+	font-size: 25px;
+}
+
+	.konsultation, h2{
+	font-size: 16px;
+	margin-left:5%;
+	margin-top:1%;
+	position: absolute;
+}
+
+.konsultation-text, p{
+	margin-left:2%;
+	margin-right:69%;
+	font-size: 8px;
+	margin-top:12%;
+	
+}
+
+.homestyling, h2{
+	
+	font-size: 16px;
+	margin-left:38%;
+	margin-top:-6%;
+	position: absolute;
+}
+
+.homestyling-text, p{
+	text-align: center;
+	margin-left:32%;
+	margin-right:33%;
+	font-size: 8px;
+	margin-top:-27%;
+	position: relative;
+	
+}
+
+.homestaging, h2{
+	
+	font-size: 16px;
+	margin-left:71%;
+	margin-top:-6%;
+	position: absolute;
+}
+
+.homestaging-text, p{
+	margin-left:67%;
+	margin-right:2%;
+	font-size: 8px;
+	margin-top:-30%;
+	margin-bottom: 10.5%;
+	position: relative;
+	
+}
+#navigation, ul, li, a{
+
+	padding:-1%;
+	margin-left:1%;
+	font-size: 7.5px;
+	
+}
+	footer{
+		font-size: 9px;
+	}
+}
+
+@media only screen and (max-device-height:720px){
+	#fade-box{
+	
+	margin-top:28.9%;
+	height: 350px;
+	}
+	
+	h1{
+	margin-top:-25%;
+	text-align: center;
+	font-size: 50px;
+}
+
+	.konsultation, h2{
+	font-size: 20px;
+	margin-left:20%;
+	margin-top:-2%;
+	position: absolute;
+}
+
+.konsultation-text, p{
+	text-align: center;
+	margin-left:15%;
+	margin-right:64%;
+	font-size: 15px;
+	margin-top:2.5%;
+	
+}
+
+.homestyling, h2{
+	
+	font-size: 20px;
+	margin-left:46%;
+	margin-top:-2.5%;
+	position: absolute;
+}
+
+.homestyling-text, p{
+	text-align: center;
+	margin-left:39%;
+	margin-right:37%;
+	font-size: 15px;
+	margin-top:-11.5%;
+	position: relative;
+	
+}
+
+.homestaging, h2{
+	
+	font-size: 20px;
+	margin-left:71%;
+	margin-top:-2.3%;
+	position: absolute;
+}
+
+.homestaging-text, p{
+	text-align: center;
+	margin-left:67%;
+	margin-right:14%;
+	font-size: 15px;
+	margin-top:-13.5%;
+	margin-bottom: 3.5%;
+	position: relative;
+	
+}
+#navigation, ul, li, a{
+	font-size: 16px;
+	margin-left:2%;
+		
+}
+	footer{
+		font-size: 14px;
+	}
+}
+@media only screen and (max-device-height:667px){
+	#fade-box{
+	
+	margin-top:116.5%;
+	height: 230px;
+	}
+	
+	h1{
+	margin-top:-59%;
+	text-align: center;
+	font-size: 25px;
+}
+
+	.konsultation, h2{
+	font-size: 16px;
+	margin-left:4%;
+	margin-top:1.5%;
+	position: absolute;
+}
+
+.konsultation-text, p{
+	margin-left:2%;
+	margin-right:69%;
+	font-size: 8px;
+	margin-top:13%;
+	
+}
+
+.homestyling, h2{
+	
+	font-size: 16px;
+	margin-left:38%;
+	margin-top:-6%;
+	position: absolute;
+}
+
+.homestyling-text, p{
+	text-align: center;
+	margin-left:32%;
+	margin-right:33%;
+	font-size: 8px;
+	margin-top:-29%;
+	position: relative;
+	
+}
+
+.homestaging, h2{
+	
+	font-size: 16px;
+	margin-left:71%;
+	margin-top:-6%;
+	position: absolute;
+}
+
+.homestaging-text, p{
+	margin-left:67%;
+	margin-right:2%;
+	font-size: 8px;
+	margin-top:-32.5%;
+	margin-bottom: 7.1%;
+	position: relative;
+	
+}
+#navigation, ul, li, a{
+
+	padding:-1%;
+	margin-left:0.5%;
+	font-size: 7.5px;
+	
+}
+	footer{
+		font-size: 9px;
+	}
+}
+
+@media only screen and (max-device-height:640px) and (min-device-width:1024px){
+	#fade-box{
+	
+	margin-top:19.8%;
+	height: 300px;
+	}
+	
+	h1{
+	margin-top:-27%;
+	text-align: center;
+	font-size: 30px;
+}
+
+	.konsultation, h2{
+	font-size: 18px;
+	margin-left:20%;
+	margin-top:-2%;
+	position: absolute;
+}
+
+.konsultation-text, p{
+	text-align: center;
+	margin-left:15%;
+	margin-right:64%;
+	font-size: 13px;
+	margin-top:3%;
+	
+}
+
+.homestyling, h2{
+	
+	font-size: 18px;
+	margin-left:46%;
+	margin-top:-2.5%;
+	position: absolute;
+}
+
+.homestyling-text, p{
+	text-align: center;
+	margin-left:39%;
+	margin-right:37%;
+	font-size: 13px;
+	margin-top:-14.4%;
+	position: relative;
+	
+}
+
+.homestaging, h2{
+	
+	font-size: 18px;
+	margin-left:71%;
+	margin-top:-2.3%;
+	position: absolute;
+}
+
+.homestaging-text, p{
+	text-align: center;
+	margin-left:67%;
+	margin-right:14%;
+	font-size: 13px;
+	margin-top:-16.5%;
+	margin-bottom: 3.8%;
+	position: relative;
+	
+}
+#navigation, ul, li, a{
+	font-size: 14px;
+	padding: 0.5%;
+	margin-left:2%;
+		
+}
+	footer{
+		font-size:12px;
+	}
+}
+
+@media only screen and (max-device-height:640px) and (min-device-width:360px){
+	#fade-box{
+	
+	margin-top:114%;
+	height: 230px;
+	}
+	
+	h1{
+	margin-top:-60%;
+	text-align: center;
+	font-size: 25px;
+}
+
+	.konsultation, h2{
+	font-size: 12px;
+	margin-left:5%;
+	margin-top:-1%;
+	position: absolute;
+}
+
+.konsultation-text, p{
+	margin-left:2%;
+	margin-right:69%;
+	font-size: 8px;
+	margin-top:10%;
+	
+}
+
+.homestyling, h2{
+	
+	font-size: 12px;
+	margin-left:38%;
+	margin-top:-5.3%;
+	position: absolute;
+}
+
+.homestyling-text, p{
+	text-align: center;
+	margin-left:32%;
+	margin-right:33%;
+	font-size: 8px;
+	margin-top:-31%;
+	position: relative;
+	
+}
+
+.homestaging, h2{
+	
+	font-size: 12px;
+	margin-left:71%;
+	margin-top:-5.5%;
+	position: absolute;
+}
+
+.homestaging-text, p{
+	margin-left:67%;
+	margin-right:2%;
+	font-size: 8px;
+	margin-top:-37.5%;
+	margin-bottom: 9.2%;
+	position: relative;
+	
+}
+#navigation, ul, li, a{
+
+	padding:-1%;
+	margin-left:0.3%;
+	font-size: 7.5px;
+	
+}
+	footer{
+		font-size: 9px;
+	}
+}
+
+
+
+@media only screen and (max-device-height:568px){
+	#fade-box{
+	
+	margin-top:110%;
+	height: 230px;
+	}
+	
+	h1{
+	margin-top:-69%;
+	text-align: center;
+	font-size: 25px;
+}
+
+	.konsultation, h2{
+	font-size: 12px;
+	margin-left:5%;
+	margin-top:-1%;
+	position: absolute;
+}
+
+.konsultation-text, p{
+	margin-left:2%;
+	margin-right:69%;
+	font-size: 8px;
+	margin-top:12%;
+	
+}
+
+.homestyling, h2{
+	
+	font-size: 12px;
+	margin-left:38%;
+	margin-top:-5.5%;
+	position: absolute;
+}
+
+.homestyling-text, p{
+	text-align: center;
+	margin-left:32%;
+	margin-right:33%;
+	font-size: 8px;
+	margin-top:-37%;
+	position: relative;
+	
+}
+
+.homestaging, h2{
+	
+	font-size: 12px;
+	margin-left:71%;
+	margin-top:-5.5%;
+	position: absolute;
+}
+
+.homestaging-text, p{
+	margin-left:67%;
+	margin-right:2%;
+	font-size: 8px;
+	margin-top:-41%;
+	margin-bottom: 7.5%;
+	position: relative;
+	
+}
+#navigation, ul, li, a{
+
+	padding:-1%;
+	margin-left:1%;
+	font-size: 7.5px;
+	
+}
+	footer{
+		font-size: 9px;
+	}
+}
+
